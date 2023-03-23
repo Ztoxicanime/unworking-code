@@ -77,3 +77,19 @@ class Program
         inventory.AddItem(item3);
     }
 }
+
+
+
+
+
+Errors---------------------------
+
+Program(26,44): Error: ) expected
+Program(1,0): Error: A using clause must precede all other elements defined in the namespace except extern alias declarations Program(2,0): Error: A using clause must precede all other elements defined in the namespace except extern alias declarations
+Program(80,0): Error: Type or namespace definition, or end-of-file expected
+Program(65,6): Error: The namespace ' already contains a definition for 'Program'
+Program(27,12): Error: The type or member 'Console' is prohibited Program(27,20): Error: The type or member 'void
+Console.WriteLine(string value)' is prohibited
+Program(32,62): Error: The type or member 'Console' is prohibited Program(32,70): Error: The type or member 'void
+Console.WriteLine(string value)' is prohibited
+Program(38,58): Error: The type or member 'Console' is prohibited Program(38,66): Error: The type or member 'void Console.WriteLine(string value)' is prohibited
